@@ -59,14 +59,15 @@ The system follows a high-performance pipeline designed for low-latency edge or 
 
 ---
 
+<!--
 ## 📸 Demo
 
 > Add a screenshot or GIF of detection in action here.
 ```
 assets/demo.gif
 ```
-
 ---
+-->
 
 ## 🚀 Getting Started
 ```bash
